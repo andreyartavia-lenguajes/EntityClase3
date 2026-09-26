@@ -1,0 +1,6 @@
+@EntityClase3_HostAddress = http://localhost:5282
+
+GET {{EntityClase3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
